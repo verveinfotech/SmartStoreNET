@@ -10511,7 +10511,7 @@
 		<Value>Theme hochladen</Value>
 	</LocaleResource>
 	<LocaleResource Name="admin.pagetitle">
-		<Value>SmartStore.NET Administration</Value>
+		<Value>Postal Link Store Administration</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Picture.RemovePicture">
 		<Value>Bild entfernen</Value>

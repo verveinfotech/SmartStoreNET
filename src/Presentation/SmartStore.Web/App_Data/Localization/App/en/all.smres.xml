@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Language Name="English">
 	<LocaleResource Name="AboutUs">
 		<Value>About us</Value>
@@ -1042,7 +1042,7 @@
 		<Value>The affiliate has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.AppNews">
-		<Value>SmartStore.NET News</Value>
+		<Value>Postal Link News</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.AppNews.HideAdv">
 		<Value>Hide advertisements</Value>
@@ -3110,7 +3110,7 @@
 		<Value>Don't notify anymore</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CheckUpdate.IsUpToDate">
-		<Value>SmartStore.NET is up to date</Value>
+		<Value>Postal Link is up to date</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CheckUpdate.ReleaseNotes">
 		<Value>Release Notes</Value>
@@ -3128,7 +3128,7 @@
 		<Value>Actions</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.About">
-		<Value>About SmartStore.NET</Value>
+		<Value>About Postal Link</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Actions">
 		<Value>Actions</Value>
@@ -10784,7 +10784,7 @@
 		<Value>Upload theme</Value>
 	</LocaleResource>
 	<LocaleResource Name="admin.pagetitle">
-		<Value>SmartStore.NET administration</Value>
+		<Value>Postal Link Store administration</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Picture">
 		<Value>Remove picture</Value>
@@ -12056,13 +12056,13 @@
 		<Value>Created on</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SystemInfo.AppDate.Hint">
-		<Value>The creation date of this SmartStore.NET version.</Value>
+		<Value>The creation date of this Postal Link version.</Value>
 	</LocaleResource>
 	<LocaleResource Name="admin.system.systeminfo.appversion">
-		<Value>SmartStore.NET version</Value>
+		<Value>Postal Link version</Value>
 	</LocaleResource>
 	<LocaleResource Name="admin.system.systeminfo.appversion.hint">
-		<Value>SmartStore.NET version</Value>
+		<Value>Postal Link version</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SystemInfo.ASPNETInfo">
 		<Value>ASP.NET info</Value>
